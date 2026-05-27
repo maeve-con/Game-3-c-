@@ -1,0 +1,97 @@
+{
+    "activeFile": "Level3.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/devin/Documents/GitHub/PlatformerPractice/PlatformImprovement/assets/platformer-level-1.tmx": {
+            "scale": 1.9802662037037038,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 412.57079400333146,
+                "y": 225.22224495163505
+            }
+        },
+        "C:/Users/devin/Documents/GitHub/PlatformerPractice/PlatformImprovement/assets/platformer-level-1.tmx#kenny_tilemap_packed": {
+            "scaleInDock": 1
+        },
+        "Level1.tmx": {
+            "expandedObjectLayers": [
+                10
+            ],
+            "scale": 1,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 2318,
+                "y": 450
+            }
+        },
+        "Level1.tmx#tilemap-backgrounds_packed": {
+            "scaleInDock": 1
+        },
+        "Level1.tmx#tilemap_packed": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Level2.tmx": {
+            "expandedObjectLayers": [
+                2
+            ],
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 740,
+                "y": 347
+            }
+        },
+        "Level2.tmx#tilemap_packed": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Level3.tmx": {
+            "expandedObjectLayers": [
+                2
+            ],
+            "scale": 1,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 459,
+                "y": 1179
+            }
+        },
+        "Level3.tmx#tilemap_packed": {
+            "scaleInDock": 1
+        }
+    },
+    "last.exportedFilePath": "C:/Users/devin/Documents/GitHub/Platformer Game/assets/Tilemap",
+    "last.imagePath": "C:/Users/devin/Documents/GitHub/Platformer Game/assets/Tilemap",
+    "map.height": 50,
+    "map.lastUsedExportFilter": "JSON map files (*.tmj *.json)",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 18,
+    "map.tileWidth": 18,
+    "map.width": 60,
+    "openFiles": [
+        "Level1.tmx",
+        "Level2.tmx",
+        "Level3.tmx"
+    ],
+    "project": "Level1.tiled-project",
+    "property.type": "bool",
+    "recentFiles": [
+        "Level1.tmx",
+        "Level2.tmx",
+        "Level3.tmx",
+        "C:/Users/devin/Documents/GitHub/PlatformerPractice/PlatformImprovement/assets/platformer-level-1.tmx"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.tileSize": {
+        "height": 18,
+        "width": 18
+    }
+}
